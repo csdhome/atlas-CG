@@ -1662,7 +1662,7 @@ return {
       radius = 41800.0,
       atmosphereThickness = 80000,
       atmosphereRadius = 121700,
-      GM = 764331210.20,
+      GM = 8229500400,
       surfaceArea = 5489111711.6,
       surfaceAverageAltitude = 18300,
       surfaceMaxAltitude = 18500,
@@ -1819,7 +1819,7 @@ return {
       surfaceAverageAltitude = 0.00,
       surfaceMaxAltitude = 0.00,
       surfaceMinAltitude = 0.00,
-      GM = 726114649.70,
+      GM = 13857179726,
       maxStaticAltitude = 30000,
       ores = { 262147665, 299255727, 1866812055, 4234772167, 3724036288, 343766315, 4041459743, 629636034 },
       territories = 50432
@@ -2001,7 +2001,7 @@ return {
       surfaceAverageAltitude = 0,
       surfaceMaxAltitude = 0,
       surfaceMinAltitude = 0,
-      GM = 140127388.535032,
+      GM = 104483500,
       maxStaticAltitude = 2500,
       ores = { 262147665, 299255727, 4234772167, 3724036288, 343766315 },
       territories = 1922
@@ -2034,7 +2034,7 @@ return {
       surfaceAverageAltitude = 0,
       surfaceMaxAltitude = 0,
       surfaceMinAltitude = 0,
-      GM = 191082802.547771,
+      GM = 264937500,
       maxStaticAltitude = 2500,
       ores = { 262147665, 299255727, 2289641763, 4234772167, 3724036288, 4041459743 },
       territories = 3632
@@ -2067,7 +2067,7 @@ return {
       surfaceAverageAltitude = 500,
       surfaceMaxAltitude = 1300,
       surfaceMinAltitude = 0,
-      GM = 573248407.643312,
+      GM = 7137425081,
       maxStaticAltitude = 10000,
       ores = { 262147665, 3086347393, 299255727, 1467310917, 4234772167, 3934774987, 3724036288, 1050500112 },
       territories = 32672
@@ -2100,7 +2100,7 @@ return {
       surfaceAverageAltitude = 0,
       surfaceMaxAltitude = 1200,
       surfaceMinAltitude = 0,
-      GM = 802547770.700637,
+      GM = 19628689500,
       maxStaticAltitude = 1300,
       ores = { 262147665, 3086347393, 299255727, 2029139010, 4234772167, 3837858336, 789110817, 271971371, 3724036288 },
       territories = 60752
@@ -2133,7 +2133,7 @@ return {
       surfaceAverageAltitude = 0,
       surfaceMaxAltitude = 0,
       surfaceMinAltitude = 0,
-      GM = 127388535.031847,
+      GM = 78500000,
       maxStaticAltitude = 2500,
       ores = { 262147665, 299255727, 4234772167, 3837858336, 271971371, 3724036288 },
       territories = 1472
@@ -2166,7 +2166,7 @@ return {
       surfaceAverageAltitude = 0,
       surfaceMaxAltitude = 0,
       surfaceMinAltitude = 0,
-      GM = 152866242.038217,
+      GM = 135648000,
       maxStaticAltitude = 2500,
       ores = { 262147665, 299255727, 1866812055, 4234772167, 1065079614, 3724036288, 2162350405 },
       territories = 1922
@@ -2199,7 +2199,7 @@ return {
       surfaceAverageAltitude = 0,
       surfaceMaxAltitude = 0,
       surfaceMinAltitude = 0,
-      GM = 191082802.547771,
+      GM = 264937500,
       maxStaticAltitude = 2500,
       ores = { 262147665, 299255727, 1467310917, 4234772167, 3724036288, 629636034 },
       territories = 3632
@@ -2232,7 +2232,7 @@ return {
       surfaceAverageAltitude = 750,
       surfaceMaxAltitude = 850,
       surfaceMinAltitude = 0,
-      GM = 573248407.643312,
+      GM = 6932495925,
       maxStaticAltitude = 1460,
       ores = { 262147665, 299255727, 4234772167, 1065079614, 3724036288, 343766315 },
       territories = 30722
@@ -2265,7 +2265,7 @@ return {
       surfaceAverageAltitude = 130,
       surfaceMaxAltitude = 220,
       surfaceMinAltitude = 0,
-      GM = 649681528.66242,
+      GM = 10453979235,
       maxStaticAltitude = 1600,
       ores = { 262147665, 299255727, 2029139010, 4234772167, 271971371, 3724036288, 4041459743 },
       territories = 41072
@@ -2298,7 +2298,7 @@ return {
       surfaceAverageAltitude = 0,
       surfaceMaxAltitude = 0,
       surfaceMinAltitude = 0,
-      GM = 216560509.55414,
+      GM = 385670500,
       maxStaticAltitude = 2500,
       ores = { 262147665, 299255727, 2029139010, 3546085401, 4234772167, 3934774987, 3724036288, 1050500112 },
       territories = 4322
@@ -2331,7 +2331,7 @@ return {
       surfaceAverageAltitude = 317,
       surfaceMaxAltitude = 360,
       surfaceMinAltitude = 0,
-      GM = 700636942.675159,
+      GM = 13036702044,
       maxStaticAltitude = 10000,
       ores = { 262147665, 299255727, 2289641763, 1467310917, 4234772167, 3724036288, 1050500112 },
       territories = 48002
@@ -2364,7 +2364,7 @@ return {
       surfaceAverageAltitude = 39,
       surfaceMaxAltitude = 450,
       surfaceMinAltitude = 0,
-      GM = 624203821.656051,
+      GM = 9254303966,
       maxStaticAltitude = 30000,
       ores = { 262147665, 299255727, 2029139010, 3546085401, 4234772167, 1065079614, 3724036288, 2162350405 },
       territories = 38882
@@ -2397,7 +2397,7 @@ return {
       surfaceAverageAltitude = 0,
       surfaceMaxAltitude = 0,
       surfaceMinAltitude = 0,
-      GM = 191082802.547771,
+      GM = 264937500,
       maxStaticAltitude = 2500,
       ores = { 262147665, 299255727, 1467310917, 4234772167, 3724036288, 343766315, 629636034 },
       territories = 3632
@@ -2430,7 +2430,7 @@ return {
       surfaceAverageAltitude = 0,
       surfaceMaxAltitude = 0,
       surfaceMinAltitude = 0,
-      GM = 152866242.038217,
+      GM = 135648000,
       maxStaticAltitude = 2500,
       ores = { 262147665, 299255727, 4234772167, 1065079614, 271971371, 3724036288 },
       territories = 1922
@@ -2463,7 +2463,7 @@ return {
       surfaceAverageAltitude = 0,
       surfaceMaxAltitude = 0,
       surfaceMinAltitude = 0,
-      GM = 140127388.535032,
+      GM = 104483500,
       maxStaticAltitude = 2500,
       ores = { 262147665, 3086347393, 299255727, 1866812055, 4234772167, 3724036288, 2162350405 },
       territories = 1922
@@ -2496,7 +2496,7 @@ return {
       surfaceAverageAltitude = 580,
       surfaceMaxAltitude = 1300,
       surfaceMinAltitude = 0,
-      GM = 738853503.184713,
+      GM = 15053356250,
       maxStaticAltitude = 2900,
       ores = { 262147665, 3086347393, 299255727, 4234772167, 3837858336, 3724036288, 343766315 },
       territories = 52922
@@ -2529,7 +2529,7 @@ return {
       surfaceAverageAltitude = 700,
       surfaceMaxAltitude = 1100,
       surfaceMinAltitude = 0,
-      GM = 777070063.694268,
+      GM = 18406994000,
       maxStaticAltitude = 1540,
       ores = { 262147665, 299255727, 3546085401, 2289641763, 4234772167, 1065079614, 3724036288, 343766315 },
       territories = 60752
@@ -2562,7 +2562,7 @@ return {
       surfaceAverageAltitude = 0,
       surfaceMaxAltitude = 0,
       surfaceMinAltitude = 0,
-      GM = 178343949.044586,
+      GM = 215404000,
       maxStaticAltitude = 2500,
       ores = { 262147665, 299255727, 2029139010, 4234772167, 3724036288, 1050500112 },
       territories = 3002
@@ -2595,7 +2595,7 @@ return {
       surfaceAverageAltitude = 0,
       surfaceMaxAltitude = 0,
       surfaceMinAltitude = 0,
-      GM = 191082802.547771,
+      GM = 264937500,
       maxStaticAltitude = 2500,
       ores = { 262147665, 299255727, 3546085401, 4234772167, 3837858336, 3724036288 },
       territories = 3632
@@ -2628,7 +2628,7 @@ return {
       surfaceAverageAltitude = 13640,
       surfaceMaxAltitude = 13690,
       surfaceMinAltitude = 0,
-      GM = 789808917.197452,
+      GM = 11685667000,
       maxStaticAltitude = 14709,
       ores = { 262147665, 299255727, 2029139010, 4234772167, 3724036288, 4041459743 },
       territories = 38882
